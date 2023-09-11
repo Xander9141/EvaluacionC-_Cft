@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\bin\Debug\net6.0-windows\Evaluacion1RamonTorres.exe
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\bin\Debug\net6.0-windows\Evaluacion1RamonTorres.deps.json
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\bin\Debug\net6.0-windows\Evaluacion1RamonTorres.runtimeconfig.json
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\bin\Debug\net6.0-windows\Evaluacion1RamonTorres.dll
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\bin\Debug\net6.0-windows\Evaluacion1RamonTorres.pdb
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\obj\Debug\net6.0-windows\Evaluacion1RamonTorres.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\obj\Debug\net6.0-windows\Evaluacion1RamonTorres.Form1.resources
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\obj\Debug\net6.0-windows\Evaluacion1RamonTorres.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\obj\Debug\net6.0-windows\Evaluacion1RamonTorres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\obj\Debug\net6.0-windows\Evaluacion1RamonTorres.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\obj\Debug\net6.0-windows\Evaluacion1RamonTorres.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\obj\Debug\net6.0-windows\Evaluacion1RamonTorres.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\obj\Debug\net6.0-windows\Evaluacion1RamonTorres.dll
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\obj\Debug\net6.0-windows\refint\Evaluacion1RamonTorres.dll
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\obj\Debug\net6.0-windows\Evaluacion1RamonTorres.pdb
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\obj\Debug\net6.0-windows\Evaluacion1RamonTorres.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Evaluacion1RamonTorres\Evaluacion1RamonTorres\obj\Debug\net6.0-windows\ref\Evaluacion1RamonTorres.dll
